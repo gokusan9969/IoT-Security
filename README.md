@@ -1,6 +1,10 @@
 # IoT-Security
 Finding vulnerabilities in binary files and execute a shell
 
+# Exercises:
+
+Azeria Labs Stack Exercises
+
 # Processor & OS:
 
 - ARM-86
